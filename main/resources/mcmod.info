@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "loz",
+  "name": "Legend Of Zelda: Return of the Block",
+  "description": "Minecraft Legend of Zelda",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Clark, Trentboys"],
+  "credits": "Minetendo Dev Team",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

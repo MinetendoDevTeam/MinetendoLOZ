@@ -1,9 +1,8 @@
 package com.minetendodevs.loz.tabs;
 
-
+import com.minetendodevs.loz.init.ModBlocks;
 
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.init.Blocks;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
@@ -16,6 +15,6 @@ public class MinetendoTab extends CreativeTabs
 	}
 	public ItemStack getTabIconItem() 
 	{
-		return new ItemStack(Item.getItemFromBlock(Blocks.ANVIL));
+		return new ItemStack(Item.getItemFromBlock(ModBlocks.M_64));
 	}
 }
